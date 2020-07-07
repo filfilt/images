@@ -1,0 +1,7 @@
+
+  How to add a SharePoint Site to a local enteranet
+  first open sharepoint site using internet explorer
+  click on setting at the top right corner
+  Internet option
+  security=>Local interanet=>Advanced=>site then add the website url
+  

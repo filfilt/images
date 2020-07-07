@@ -1,0 +1,7 @@
+
+   How to add external List Form to sharepoint site using powerApp
+   Create List Form from Excel and save your local
+   create a site using Import Spreadsheet template & browse existed form at excel
+   customize font size,background color,text color,order of the list,display mode e.t.c
+   after we finish editing back to sharepoine ann the save & publish
+ 

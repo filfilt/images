@@ -1,0 +1,8 @@
+how to set permission for one single folder
+   open the folder in sharepoint site
+   Library=>Library setting
+   permission for this document library
+   stop inheritance permission
+   remove all users permission so all users don't have permission except Admin
+   then give permision for user that mean only this user has permission to access that doc.
+  Thankyou for watching

@@ -1,0 +1,8 @@
+
+   We will see how to Resize the photos
+   Right click on photo picture
+   Open with => paint =>Resize => check the RadioButten next to Pixels 
+   resize the hieght and width as you want
+   uncheck checkBox next to maintain aspect ratio and Click Ok 
+
+  

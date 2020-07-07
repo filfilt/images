@@ -1,0 +1,8 @@
+
+   Today we will see How to Save document library as template
+   first open any document library from your sharepoint site
+   Library=>Library setting=>Save document library as template
+   Give file name and template name those are the same
+   If you want to include content checked the checkBox next to Include Content
+   List Template Gallery and then download your template
+   

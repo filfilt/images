@@ -1,0 +1,11 @@
+
+ how to create document template.
+ 
+  first open sharepoint site using internet explorer
+  open any document Libbrary=>Library=>Librarysetting=>Advance setting
+  Edit template and click OK => we get microsoft office word page
+  create header and footer template for existing page=>go back to our document library 
+  File at the left top side the click New document =>yes 
+  write some text on existing page then save & check it from sharepoint site
+
+ 
